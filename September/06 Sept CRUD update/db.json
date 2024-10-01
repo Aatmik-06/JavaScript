@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "employeeno": 101,
+      "name": "Aadi",
+      "city": "Bhopal",
+      "salary": 32000
+    },
+    {
+      "employeeno": 102,
+      "name": "Hiu",
+      "salary": 22000,
+      "city": "Bhopal"
+    },
+    {
+      "employeeno": 103,
+      "name": "jui",
+      "salary": 70000,
+      "city": "Bhopal"
+    },
+    {
+      "employeeno": 104,
+      "name": "iok",
+      "salary": 80000,
+      "city": "Bhopal"
+    },
+    {
+      "employeeno": "102",
+      "name": "Aatmik",
+      "city": "Bhaolp",
+      "salary": "50000"
+    },
+    {
+      "employeeno": "102",
+      "name": "hekko",
+      "city": "ibdi",
+      "salary": "40000"
+    },
+    {
+      "employeeno": "",
+      "name": "",
+      "city": "",
+      "salary": ""
+    }
+  ]
+}

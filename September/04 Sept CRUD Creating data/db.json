@@ -1,0 +1,32 @@
+{
+    "employees":[
+        {
+            "id":1,
+            "employeeno":101,
+            "name":"Aadi",
+            "salary":32000,
+            "city":"Bhopal"
+        },
+        {
+            "id":2,
+            "employeeno":102,
+            "name":"Hiu",
+            "salary":22000,
+            "city":"Bhopal"
+        },
+        {
+            "id":3,
+            "employeeno":103,
+            "name":"jui",
+            "salary":70000,
+            "city":"Bhopal"
+        },
+        {
+            "id":4,
+            "employeeno":104,
+            "name":"iok",
+            "salary":80000,
+            "city":"Bhopal"
+        }
+    ]
+}
